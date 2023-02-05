@@ -230,6 +230,5 @@
     {"name":"rm_init","order":1,"path":"rooms/rm_init/rm_init.yy",},
     {"name":"rm_mainmenu","order":7,"path":"rooms/rm_mainmenu/rm_mainmenu.yy",},
     {"name":"rm_gameplay","order":9,"path":"rooms/rm_gameplay/rm_gameplay.yy",},
-    {"name":"compatibility_report_270121_1545424542","order":3,"path":"notes/compatibility_report_270121_1545424542/compatibility_report_270121_1545424542.yy",},
   ],
 }
