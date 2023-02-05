@@ -1,0 +1,468 @@
+Converting GML script: ${project_dir}\scripts\add_commas\add_commas.gml
+Converted description /// @description  add_commas(number_input)/// @param number_input
+Converted string - line 11: ',' -> ","
+
+Converting GML script: ${project_dir}\scripts\angle_diff\angle_diff.gml
+Converted description /// @description  angle_diff(final_angle,start_angle)/// @param final_angle
+/// @param start_angle
+
+Converting GML script: ${project_dir}\scripts\blink\blink.gml
+Converted description /// @description  blink(blink_variable)/// @param blink_variable
+
+Converting GML script: ${project_dir}\scripts\closest_instance\closest_instance.gml
+Converted description /// @description  closest_instance(x,y,instance_type,max_distance)/// @param x
+/// @param y
+/// @param instance_type
+/// @param max_distance
+
+Converting GML script: ${project_dir}\scripts\color_by_percent\color_by_percent.gml
+Converted description /// @description  color_by_percent(percent)/// @param percent
+
+Converting GML script: ${project_dir}\scripts\color_change\color_change.gml
+Converted description /// @description  color_change(start_color,amount)/// @param start_color
+/// @param amount
+
+Converting GML script: ${project_dir}\scripts\draw_sprite_centered\draw_sprite_centered.gml
+Converted description /// @description  draw_sprite_centered(sprite,img,xdraw,ydraw,scale,rotation,color,alpha)/// @param sprite
+/// @param img
+/// @param xdraw
+/// @param ydraw
+/// @param scale
+/// @param rotation
+/// @param color
+/// @param alpha
+
+Converting GML script: ${project_dir}\scripts\ds_list_contains\ds_list_contains.gml
+Converted description /// @description  ds_list_contains(list_to_check,thing_in_question)/// @param list_to_check
+/// @param thing_in_question
+
+Converting GML script: ${project_dir}\scripts\ds_list_get_random\ds_list_get_random.gml
+Converted description /// @description  ds_list_get_random(list)/// @param list
+
+Converting GML script: ${project_dir}\scripts\font_set\font_set.gml
+Converted description /// @description  font_set(font,halign,valign)/// @param font
+/// @param halign
+/// @param valign
+
+Converting GML script: ${project_dir}\scripts\get_dist_movspd_zspd\get_dist_movspd_zspd.gml
+Converted description /// @description  get_dist_movspd_zspd(movespeed,zspeed)/// @param movespeed
+/// @param zspeed
+
+Converting GML script: ${project_dir}\scripts\get_list_index_by_weight\get_list_index_by_weight.gml
+Converted description /// @description  get_list_index_by_weight(list_of_weights)/// @param list_of_weights
+
+Converting GML script: ${project_dir}\scripts\get_movespd_dist_zsp\get_movespd_dist_zsp.gml
+Converted description /// @description  get_movespd_dist_zsp(distance,zspeed)/// @param distance
+/// @param zspeed
+
+Converting GML script: ${project_dir}\scripts\get_zspeed_for_dest\get_zspeed_for_dest.gml
+Converted description /// @description  get_zspeed_for_dest(destination_x,destination_y,movespeed)/// @param destination_x
+/// @param destination_y
+/// @param movespeed
+
+Converting GML script: ${project_dir}\scripts\in_view\in_view.gml
+Converted builtin - line 3: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 7: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 5: view_yview -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 9: view_yview -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 7: view_wview -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 9: view_hview -> __view_get( e__VW.HView, 0 )
+Converted description /// @description  in_view(x,y,margin)/// @param x
+/// @param y
+/// @param margin
+
+Converting GML script: ${project_dir}\scripts\isblinking\isblinking.gml
+Converted description /// @description  isblinking(blink_variable)/// @param blink_variable
+
+Converting GML script: ${project_dir}\scripts\nth_digit_in_string\nth_digit_in_string.gml
+Converted description /// @description  nth_digit_in_string(string,n)/// @param string
+/// @param n
+Converted string - line 9: ',' -> ","
+Converted string - line 13: ',' -> ","
+Converted string - line 13: ',' -> ","
+
+Converting GML script: ${project_dir}\scripts\seconds_to_time_string\seconds_to_time_string.gml
+Converted description /// @description  seconds_to_time_string(seconds,rounded)/// @param seconds
+/// @param rounded
+Converted string - line 14: '0' -> "0"
+Converted string - line 17: '0' -> "0"
+Converted string - line 20: '0' -> "0"
+
+Converting GML script: ${project_dir}\scripts\shadowtext\shadowtext.gml
+Converted description /// @description  shadowtext(x,y,string,xscale,yscale,angle,color,alpha)/// @param x
+/// @param y
+/// @param string
+/// @param xscale
+/// @param yscale
+/// @param angle
+/// @param color
+/// @param alpha
+
+Converting GML script: ${project_dir}\scripts\tween\tween.gml
+Converted description /// @description  tween(current,target,amount)/// @param current
+/// @param target
+/// @param amount
+
+Converting GML script: ${project_dir}\scripts\update_facingright\update_facingright.gml
+Converted description /// @description  update_facingright(direction)/// @param direction
+
+Converting GML script: ${project_dir}\scripts\view_bottom\view_bottom.gml
+Converted builtin - line 1: view_yview -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 1: view_hview -> __view_get( e__VW.HView, 0 )
+
+Converting GML script: ${project_dir}\scripts\view_center_x\view_center_x.gml
+Converted builtin - line 1: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 1: view_wview -> __view_get( e__VW.WView, 0 )
+
+Converting GML script: ${project_dir}\scripts\view_center_y\view_center_y.gml
+Converted builtin - line 1: view_yview -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 1: view_hview -> __view_get( e__VW.HView, 0 )
+
+Converting GML script: ${project_dir}\scripts\view_right\view_right.gml
+Converted builtin - line 1: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 1: view_wview -> __view_get( e__VW.WView, 0 )
+
+Converting GML script: ${project_dir}\scripts\x_from_coords\x_from_coords.gml
+Converted description /// @description  x_from_coords(coordinate_string)/// @param coordinate_string
+Converted string - line 5: ',' -> ","
+
+Converting GML script: ${project_dir}\scripts\xy_to_coords\xy_to_coords.gml
+Converted description /// @description  xy_to_coords(x,y)/// @param x
+/// @param y
+
+Converting GML script: ${project_dir}\scripts\y_from_coords\y_from_coords.gml
+Converted description /// @description  y_from_coords(coordinate_string)/// @param coordinate_string
+Converted string - line 5: ',' -> ","
+
+Converting GML script: ${project_dir}\scripts\play_music\play_music.gml
+Converted description /// @description  play_music(music_id,looping)/// @param music_id
+/// @param looping
+
+Converting GML script: ${project_dir}\scripts\camera_shake\camera_shake.gml
+Converted description /// @description  camera_shake(amount)/// @param amount
+
+Converting GML script: ${project_dir}\scripts\save_progress\save_progress.gml
+Converted string - line 1: 'SAVEFILE.ini' -> "SAVEFILE.ini"
+Converted string - line 3: 'Settings' -> "Settings"
+Converted string - line 3: 'Sound' -> "Sound"
+Converted string - line 5: 'GM' -> "GM"
+Converted string - line 5: 'DBB' -> "DBB"
+Converted string - line 6: 'GM' -> "GM"
+Converted string - line 6: 'DBM' -> "DBM"
+Converted string - line 8: 'GM' -> "GM"
+Converted string - line 8: 'GD' -> "GD"
+Converted string - line 10: 'GM' -> "GM"
+Converted string - line 10: 'HBH' -> "HBH"
+Converted string - line 11: 'GM' -> "GM"
+Converted string - line 11: 'DHB' -> "DHB"
+Converted string - line 15: 'T' -> "T"
+Converted string - line 15: 'TP' -> "TP"
+
+Converting GML script: ${project_dir}\scripts\load_progress\load_progress.gml
+Converted string - line 1: 'SAVEFILE.ini' -> "SAVEFILE.ini"
+Converted string - line 3: 'Settings' -> "Settings"
+Converted string - line 3: 'Sound' -> "Sound"
+Converted string - line 5: 'GM' -> "GM"
+Converted string - line 5: 'DBB' -> "DBB"
+Converted string - line 6: 'GM' -> "GM"
+Converted string - line 6: 'DBM' -> "DBM"
+Converted string - line 7: 'GM' -> "GM"
+Converted string - line 7: 'GD' -> "GD"
+Converted string - line 8: 'GM' -> "GM"
+Converted string - line 8: 'HBH' -> "HBH"
+Converted string - line 9: 'GM' -> "GM"
+Converted string - line 9: 'DHB' -> "DHB"
+Converted string - line 13: 'T' -> "T"
+Converted string - line 13: 'TP' -> "TP"
+
+Converting GML script: ${project_dir}\scripts\init_fonts\init_fonts.gml
+Converted string - line 4: '0123456789AaBbCcDdEeFfGgHhIiJjKkLlMmNnOoPpQqRrSsTtUuVvWwXxYyZz?./;+-' -> "0123456789AaBbCcDdEeFfGgHhIiJjKkLlMmNnOoPpQqRrSsTtUuVvWwXxYyZz?./;+-"
+Converted string - line 4: '#' -> "#"
+Converted string - line 4: ',:^=!()&$%' -> ",:^=!()&$%"
+Converted string - line 4: '<_' -> "<_"
+
+Converting GML script: ${project_dir}\scripts\move\move.gml
+Converted description /// @description  move(mspeed,mdirection,ignore_collision)/// @param mspeed
+/// @param mdirection
+/// @param ignore_collision
+
+Converting GML script: ${project_dir}\scripts\walkable_space\walkable_space.gml
+Converted description /// @description  walkable_space(xg,yg)/// @param xg
+/// @param yg
+
+Converting GML script: ${project_dir}\scripts\draw_shadow\draw_shadow.gml
+Converted description /// @description  draw_shadow(xdraw,drawscale)/// @param xdraw
+/// @param drawscale
+
+Converting GML script: ${project_dir}\scripts\buildable_space\buildable_space.gml
+Converted description /// @description  buildable_space(xg,yg)/// @param xg
+/// @param yg
+
+Converting GML script: ${project_dir}\scripts\get_meta_cost\get_meta_cost.gml
+Converted description /// @description  get_meta_cost(towertype)/// @param towertype
+
+Converting GML script: ${project_dir}\scripts\build_item\build_item.gml
+Converted description /// @description  build_item(xg,yg,instance)/// @param xg
+/// @param yg
+/// @param instance
+
+Converting GML script: ${project_dir}\scripts\show_popuptext\show_popuptext.gml
+Converted description /// @description  show_popuptext(x,y,text_display,text_color)/// @param x
+/// @param y
+/// @param text_display
+/// @param text_color
+
+Converting GML script: ${project_dir}\scripts\tower_levelcost\tower_levelcost.gml
+Converted description /// @description  tower_levelcost(towertype,curlevel)/// @param towertype
+/// @param curlevel
+
+Converting GML script: ${project_dir}\scripts\play_sound_at\play_sound_at.gml
+Converted description /// @description  play_sound_at(sound_id,x,y,z,looping,priority)/// @param sound_id
+/// @param x
+/// @param y
+/// @param z
+/// @param looping
+/// @param priority
+
+Converting GML script: ${project_dir}\scripts\draw_hp_bar\draw_hp_bar.gml
+Converted description /// @description  draw_hp_bar()
+
+Font fnt_normal has been converted to font family Arial (Bold)
+GameMaker Studio 1 font texture has been backed up at ${project_dir}\fonts\fnt_normal\fnt_normal.gms1.png
+Font fnt_large has been converted to font family Arial (Bold)
+GameMaker Studio 1 font texture has been backed up at ${project_dir}\fonts\fnt_large\fnt_large.gms1.png
+Converting GML script: ${project_dir}\objects\o_background\Step_0.gml
+Converted builtin - line 1: view_yview -> __view_get( e__VW.YView, 0 )
+
+Converting GML script: ${project_dir}\objects\o_background\Draw_0.gml
+Converted builtin - line 3: view_wview -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 3: view_hview -> __view_get( e__VW.HView, 0 )
+
+Converting GML script: ${project_dir}\objects\o_mainmenu\Create_0.gml
+Converted builtin - line 20: view_yview -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 20: view_hview -> __view_get( e__VW.HView, 0 )
+
+Converting GML script: ${project_dir}\objects\o_mainmenu\Draw_64.gml
+Converted string - line 2: ' GOLD' -> " GOLD"
+
+Converting GML script: ${project_dir}\objects\o_mainmenu\Draw_0.gml
+Converted builtin - line 2: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 6: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 10: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 14: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 28: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 15: view_yview -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 6: view_wview -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 10: view_wview -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 28: view_wview -> __view_get( e__VW.WView, 0 )
+Converted string - line 33: 'Best:#' -> "Best:#"
+
+Converting GML script: ${project_dir}\objects\o_upgrade_meta\Draw_0.gml
+Converted builtin - line 38: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 38: view_yview -> __view_get( e__VW.YView, 0 )
+Converted string - line 35: 'Next: ' -> "Next: "
+Converted string - line 36: '' -> ""
+Converted string - line 38: '+' -> "+"
+Converted string - line 39: '% DMG/Sec, #+' -> "% DMG/Sec, #+"
+Converted string - line 40: '% AOE Radius, +' -> "% AOE Radius, +"
+Converted string - line 41: '% Range' -> "% Range"
+Converted string - line 45: 'MAX!' -> "MAX!"
+
+Converting GML script: ${project_dir}\objects\o_splash\Draw_0.gml
+Converted builtin - line 2: view_wview -> __view_get( e__VW.WView, 0 )
+
+Converting GML script: ${project_dir}\objects\o_splash_smooth\Create_0.gml
+Converted builtin - line 3: view_wview -> __view_get( e__VW.WView, 0 )
+
+Converting GML script: ${project_dir}\objects\o_splash_smooth\Alarm_2.gml
+Converted builtin - line 1: view_wview -> __view_get( e__VW.WView, 0 )
+
+Converting GML script: ${project_dir}\objects\o_splash_smooth\Alarm_1.gml
+Converted builtin - line 1: view_wview -> __view_get( e__VW.WView, 0 )
+
+Converting GML script: ${project_dir}\objects\o_splash_smooth\Alarm_0.gml
+Converted builtin - line 1: view_wview -> __view_get( e__VW.WView, 0 )
+
+Converting GML script: ${project_dir}\objects\o_splash_smooth\Draw_64.gml
+Converted builtin - line 3: view_wview -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 2: view_hview -> __view_get( e__VW.HView, 0 )
+Converted builtin - line 3: view_hview -> __view_get( e__VW.HView, 0 )
+
+Converting GML script: ${project_dir}\objects\o_splash_new\Create_0.gml
+Converted builtin - line 12: view_wview -> __view_get( e__VW.WView, 0 )
+
+Converting GML script: ${project_dir}\objects\o_splash_new\Step_0.gml
+Converted builtin - line 7: view_wview -> __view_get( e__VW.WView, 0 )
+
+Converting GML script: ${project_dir}\objects\o_splash_new\Draw_0.gml
+Converted builtin - line 4: view_wview -> __view_get( e__VW.WView, 0 )
+
+Converting GML script: ${project_dir}\objects\o_controller\Step_0.gml
+Converted string - line 57: '-' -> "-"
+
+Converting GML script: ${project_dir}\objects\o_camera\Step_0.gml
+Converted builtin - line 72: view_xview = round(x-view_wview*.5+random_range(-shake,shake)) -> __view_set( e__VW.XView, 0, round(x-view_wview*.5+random_range(-shake,shake)) )
+Converted builtin - line 73: view_yview = round(y-view_hview*.5+random_range(-shake,shake)) -> __view_set( e__VW.YView, 0, round(y-view_hview*.5+random_range(-shake,shake)) )
+Converted builtin - line 62: view_wview -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 62: view_wview -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 77: view_wview -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 77: view_wview -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 63: view_hview -> __view_get( e__VW.HView, 0 )
+Converted builtin - line 63: view_hview -> __view_get( e__VW.HView, 0 )
+Converted builtin - line 78: view_hview -> __view_get( e__VW.HView, 0 )
+Converted builtin - line 78: view_hview -> __view_get( e__VW.HView, 0 )
+Converted string - line 33: '+1 GOLD' -> "+1 GOLD"
+Converted string - line 41: '+' -> "+"
+Converted string - line 41: ' SILVER' -> " SILVER"
+Converted builtin - line 72: view_wview -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 73: view_hview -> __view_get( e__VW.HView, 0 )
+
+Converting GML script: ${project_dir}\objects\o_bear\Create_0.gml
+Converted string - line 27: 'flash_amt' -> "flash_amt"
+
+Converting GML script: ${project_dir}\objects\button_upgrade\Alarm_0.gml
+Converted string - line 5: 'LEVEL UP! (' -> "LEVEL UP! ("
+Converted string - line 5: ')' -> ")"
+
+Converting GML script: ${project_dir}\objects\button_upgrade\Draw_64.gml
+Converted builtin - line 14: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 15: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 16: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 18: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 19: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 22: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 14: view_yview -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 15: view_yview -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 16: view_yview -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 18: view_yview -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 19: view_yview -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 22: view_yview -> __view_get( e__VW.YView, 0 )
+Converted string - line 14: '+' -> "+"
+Converted string - line 14: '% AOE Radius' -> "% AOE Radius"
+Converted string - line 15: '+' -> "+"
+Converted string - line 15: '% ATK Range' -> "% ATK Range"
+Converted string - line 16: '+' -> "+"
+Converted string - line 16: '% Damage/Sec' -> "% Damage/Sec"
+Converted string - line 18: ' Silver' -> " Silver"
+Converted string - line 19: 'Level ' -> "Level "
+
+Converting GML script: ${project_dir}\objects\o_interface\Draw_64.gml
+Converted string - line 7: ' ' -> " "
+Converted string - line 8: 'WAVE ' -> "WAVE "
+Converted string - line 11: ' SILVER' -> " SILVER"
+Converted string - line 12: ' GOLD' -> " GOLD"
+
+Converting GML script: ${project_dir}\objects\o_interface\Draw_0.gml
+Converted builtin - line 1: view_xview -> __view_get( e__VW.XView, 0 )
+
+Converting GML script: ${project_dir}\objects\button_towerbuild\Draw_64.gml
+Converted builtin - line 6: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 7: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 13: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 6: view_yview -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 7: view_yview -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 13: view_yview -> __view_get( e__VW.YView, 0 )
+
+Converting GML script: ${project_dir}\objects\button_chop\Draw_64.gml
+Converted builtin - line 6: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 12: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 6: view_yview -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 12: view_yview -> __view_get( e__VW.YView, 0 )
+
+Converting GML script: ${project_dir}\objects\o_waveping\Draw_64.gml
+Converted builtin - line 4: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 4: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 8: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 5: view_yview -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 5: view_yview -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 8: view_yview -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 4: view_wview -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 5: view_hview -> __view_get( e__VW.HView, 0 )
+
+Converting GML script: ${project_dir}\objects\eff_whiteflash\Draw_64.gml
+Converted builtin - line 4: view_wview -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 4: view_hview -> __view_get( e__VW.HView, 0 )
+
+Converting GML script: ${project_dir}\objects\eff_sparkle\Destroy_0.gml
+Converted string - line 3: 'PARTICLE SYSTEM DESTROYED: SPARKLE' -> "PARTICLE SYSTEM DESTROYED: SPARKLE"
+
+Converting GML script: ${project_dir}\objects\button_parent\Draw_64.gml
+Converted builtin - line 1: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 1: view_yview -> __view_get( e__VW.YView, 0 )
+
+Converting GML script: ${project_dir}\objects\button_parent\Draw_0.gml
+Converted description /// @description  DO NOTHING AT ALL.
+
+Converting GML script: ${project_dir}\objects\o_popuptext\Draw_64.gml
+Converted builtin - line 7: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 7: view_yview -> __view_get( e__VW.YView, 0 )
+
+Converting GML script: ${project_dir}\objects\o_endscreen\Draw_64.gml
+Converted builtin - line 7: view_wview -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 7: view_wview -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 8: view_wview -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 9: view_wview -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 11: view_wview -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 12: view_wview -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 7: view_hview -> __view_get( e__VW.HView, 0 )
+Converted builtin - line 8: view_hview -> __view_get( e__VW.HView, 0 )
+Converted builtin - line 9: view_hview -> __view_get( e__VW.HView, 0 )
+Converted builtin - line 11: view_hview -> __view_get( e__VW.HView, 0 )
+Converted builtin - line 12: view_hview -> __view_get( e__VW.HView, 0 )
+Converted string - line 7: 'THE BEARS ESCAPED WITH YOUR DELICOUS BURGER!' -> "THE BEARS ESCAPED WITH YOUR DELICOUS BURGER!"
+Converted string - line 8: 'But you defended it for ' -> "But you defended it for "
+Converted string - line 8: '...' -> "..."
+Converted string - line 11: 'BEST BURGER DEFENSE:' -> "BEST BURGER DEFENSE:"
+Converted string - line 15: ' GOLD' -> " GOLD"
+
+macOS icon ${options_dir}\mac\icons\icon512.png written out as 32-bit
+Windows NSIS Installer Script has been set to default due to changes in GameMaker Studio 2
+Missing audiogroup for sound: 'snd_explode_hard' - setting to default audio group
+Missing audiogroup for sound: 'snd_explode_mid' - setting to default audio group
+Missing audiogroup for sound: 'snd_explode_organic' - setting to default audio group
+Missing audiogroup for sound: 'snd_explode_sharp' - setting to default audio group
+Missing audiogroup for sound: 'snd_growl' - setting to default audio group
+Missing audiogroup for sound: 'snd_dig' - setting to default audio group
+Missing audiogroup for sound: 'snd_jiggle' - setting to default audio group
+Missing audiogroup for sound: 'snd_laugh_ghost' - setting to default audio group
+Missing audiogroup for sound: 'snd_laugh_hyena' - setting to default audio group
+Missing audiogroup for sound: 'snd_vomit' - setting to default audio group
+Missing audiogroup for sound: 'snd_wiggles' - setting to default audio group
+Missing audiogroup for sound: 'snd_flutter' - setting to default audio group
+Missing audiogroup for sound: 'snd_thud_wet' - setting to default audio group
+Missing audiogroup for sound: 'snd_thud_mild' - setting to default audio group
+Missing audiogroup for sound: 'snd_thud_hard' - setting to default audio group
+Missing audiogroup for sound: 'snd_jump_deep' - setting to default audio group
+Missing audiogroup for sound: 'snd_jump_normal' - setting to default audio group
+Missing audiogroup for sound: 'snd_jump_quicklow' - setting to default audio group
+Missing audiogroup for sound: 'snd_laser_shoot' - setting to default audio group
+Missing audiogroup for sound: 'snd_laser_sweep' - setting to default audio group
+Missing audiogroup for sound: 'snd_shoot_air' - setting to default audio group
+Missing audiogroup for sound: 'snd_shoot_deep' - setting to default audio group
+Missing audiogroup for sound: 'snd_shoot_plasma' - setting to default audio group
+Missing audiogroup for sound: 'snd_shoot_shotgun' - setting to default audio group
+Missing audiogroup for sound: 'snd_bushbreak' - setting to default audio group
+Missing audiogroup for sound: 'snd_rockbreak' - setting to default audio group
+Missing audiogroup for sound: 'snd_splash' - setting to default audio group
+Missing audiogroup for sound: 'snd_ping' - setting to default audio group
+Missing audiogroup for sound: 'snd_machine_echo' - setting to default audio group
+Missing audiogroup for sound: 'snd_switch' - setting to default audio group
+Missing audiogroup for sound: 'snd_coinpickup' - setting to default audio group
+Missing audiogroup for sound: 'snd_smallpickup' - setting to default audio group
+Missing audiogroup for sound: 'snd_menuclick' - setting to default audio group
+Game speed set to 30
+Added compatibility script 'background/background_get_height.gml'
+Added compatibility script 'background/background_get_width.gml'
+Added compatibility script 'background/draw_background_ext.gml'
+Added compatibility script 'draw/draw_set_blend_mode.gml'
+Added compatibility script 'instance/instance_create.gml'
+Added compatibility script 'object/object_get_depth.gml'
+Added compatibility script 'tile/tile_add.gml'
+Added compatibility script 'view/room_set_view.gml'
+Added compatibility script 'view/__view_get.gml'
+Added compatibility script 'view/__view_set.gml'
+Added compatibility script 'view/__view_set_internal.gml'
+Added compatibility script 'background/__init_background.gml'
+Added compatibility script 'view/__init_view.gml'
+Added compatibility script '__init_global.gml'
+Added compatibility script '__global_object_depths.gml'
